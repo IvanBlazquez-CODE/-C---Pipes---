@@ -1,0 +1,12 @@
+D:\DAM-2\DOCUMENTOS\PROG_SERVICIOS_PROCESOS\UD 2 Programación Multiproceso\Soluciones\Enunciado1\Enunciado1Cliente\bin\Debug\Enunciado1Cliente.exe.config
+D:\DAM-2\DOCUMENTOS\PROG_SERVICIOS_PROCESOS\UD 2 Programación Multiproceso\Soluciones\Enunciado1\Enunciado1Cliente\bin\Debug\Enunciado1Cliente.exe
+D:\DAM-2\DOCUMENTOS\PROG_SERVICIOS_PROCESOS\UD 2 Programación Multiproceso\Soluciones\Enunciado1\Enunciado1Cliente\bin\Debug\Enunciado1Cliente.pdb
+D:\DAM-2\DOCUMENTOS\PROG_SERVICIOS_PROCESOS\UD 2 Programación Multiproceso\Soluciones\Enunciado1\Enunciado1Cliente\obj\Debug\Enunciado1Cliente.csproj.CoreCompileInputs.cache
+D:\DAM-2\DOCUMENTOS\PROG_SERVICIOS_PROCESOS\UD 2 Programación Multiproceso\Soluciones\Enunciado1\Enunciado1Cliente\obj\Debug\Enunciado1Cliente.exe
+D:\DAM-2\DOCUMENTOS\PROG_SERVICIOS_PROCESOS\UD 2 Programación Multiproceso\Soluciones\Enunciado1\Enunciado1Cliente\obj\Debug\Enunciado1Cliente.pdb
+G:\DAM-2\AAA_Examenes\Noviembre_6-Prog. Serv y proc.(PIPES)\UD 2 Programación Multiproceso\Soluciones\Enunciado1\Enunciado1Cliente\bin\Debug\Enunciado1Cliente.exe.config
+G:\DAM-2\AAA_Examenes\Noviembre_6-Prog. Serv y proc.(PIPES)\UD 2 Programación Multiproceso\Soluciones\Enunciado1\Enunciado1Cliente\bin\Debug\Enunciado1Cliente.exe
+G:\DAM-2\AAA_Examenes\Noviembre_6-Prog. Serv y proc.(PIPES)\UD 2 Programación Multiproceso\Soluciones\Enunciado1\Enunciado1Cliente\bin\Debug\Enunciado1Cliente.pdb
+G:\DAM-2\AAA_Examenes\Noviembre_6-Prog. Serv y proc.(PIPES)\UD 2 Programación Multiproceso\Soluciones\Enunciado1\Enunciado1Cliente\obj\Debug\Enunciado1Cliente.csprojAssemblyReference.cache
+G:\DAM-2\AAA_Examenes\Noviembre_6-Prog. Serv y proc.(PIPES)\UD 2 Programación Multiproceso\Soluciones\Enunciado1\Enunciado1Cliente\obj\Debug\Enunciado1Cliente.exe
+G:\DAM-2\AAA_Examenes\Noviembre_6-Prog. Serv y proc.(PIPES)\UD 2 Programación Multiproceso\Soluciones\Enunciado1\Enunciado1Cliente\obj\Debug\Enunciado1Cliente.pdb
