@@ -1,0 +1,5 @@
+E:\DAM-2\DOCUMENTOS\PROGRAMACION_SERVICIOS_PROCESOS\UD 2 Programación Multiproceso\Actividades\FigurasGeometricas\FigurasGeometricas\bin\Debug\FigurasGeometricas.dll
+E:\DAM-2\DOCUMENTOS\PROGRAMACION_SERVICIOS_PROCESOS\UD 2 Programación Multiproceso\Actividades\FigurasGeometricas\FigurasGeometricas\bin\Debug\FigurasGeometricas.pdb
+E:\DAM-2\DOCUMENTOS\PROGRAMACION_SERVICIOS_PROCESOS\UD 2 Programación Multiproceso\Actividades\FigurasGeometricas\FigurasGeometricas\obj\Debug\FigurasGeometricas.dll
+E:\DAM-2\DOCUMENTOS\PROGRAMACION_SERVICIOS_PROCESOS\UD 2 Programación Multiproceso\Actividades\FigurasGeometricas\FigurasGeometricas\obj\Debug\FigurasGeometricas.pdb
+E:\DAM-2\DOCUMENTOS\PROGRAMACION_SERVICIOS_PROCESOS\UD 2 Programación Multiproceso\Actividades\FigurasGeometricas\FigurasGeometricas\obj\Debug\FigurasGeometricas.csprojResolveAssemblyReference.cache
