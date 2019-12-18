@@ -1,0 +1,6 @@
+D:\DAM2\DOCUMENTOS\PGM_SERVICIOS_PROCESOS\UD 2 Programación multiproceso\Actividades\ProcesoPadre\ProcesoHijo\bin\Debug\ProcesoHijo.exe.config
+D:\DAM2\DOCUMENTOS\PGM_SERVICIOS_PROCESOS\UD 2 Programación multiproceso\Actividades\ProcesoPadre\ProcesoHijo\bin\Debug\ProcesoHijo.exe
+D:\DAM2\DOCUMENTOS\PGM_SERVICIOS_PROCESOS\UD 2 Programación multiproceso\Actividades\ProcesoPadre\ProcesoHijo\bin\Debug\ProcesoHijo.pdb
+D:\DAM2\DOCUMENTOS\PGM_SERVICIOS_PROCESOS\UD 2 Programación multiproceso\Actividades\ProcesoPadre\ProcesoHijo\obj\Debug\ProcesoHijo.csproj.CoreCompileInputs.cache
+D:\DAM2\DOCUMENTOS\PGM_SERVICIOS_PROCESOS\UD 2 Programación multiproceso\Actividades\ProcesoPadre\ProcesoHijo\obj\Debug\ProcesoHijo.exe
+D:\DAM2\DOCUMENTOS\PGM_SERVICIOS_PROCESOS\UD 2 Programación multiproceso\Actividades\ProcesoPadre\ProcesoHijo\obj\Debug\ProcesoHijo.pdb
