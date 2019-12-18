@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClaseCuenta", "ClaseCuenta\ClaseCuenta.csproj", "{83260330-F38A-496C-BBDA-48A05EF438CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProbarCuenta", "ProbarCuenta\ProbarCuenta.csproj", "{86C356E7-2F26-4258-8518-C7BC54E245AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83260330-F38A-496C-BBDA-48A05EF438CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83260330-F38A-496C-BBDA-48A05EF438CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83260330-F38A-496C-BBDA-48A05EF438CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83260330-F38A-496C-BBDA-48A05EF438CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86C356E7-2F26-4258-8518-C7BC54E245AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86C356E7-2F26-4258-8518-C7BC54E245AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86C356E7-2F26-4258-8518-C7BC54E245AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86C356E7-2F26-4258-8518-C7BC54E245AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

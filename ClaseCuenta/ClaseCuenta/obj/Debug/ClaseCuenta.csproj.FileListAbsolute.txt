@@ -1,0 +1,6 @@
+D:\DAM2\DOCUMENTOS\PGM_SERVICIOS_PROCESOS\UD 2 Programación Multiproceso\Actividades\C#\ClaseCuenta\ClaseCuenta\bin\Debug\ClaseCuenta.dll
+D:\DAM2\DOCUMENTOS\PGM_SERVICIOS_PROCESOS\UD 2 Programación Multiproceso\Actividades\C#\ClaseCuenta\ClaseCuenta\bin\Debug\ClaseCuenta.pdb
+D:\DAM2\DOCUMENTOS\PGM_SERVICIOS_PROCESOS\UD 2 Programación Multiproceso\Actividades\C#\ClaseCuenta\ClaseCuenta\obj\Debug\ClaseCuenta.csprojResolveAssemblyReference.cache
+D:\DAM2\DOCUMENTOS\PGM_SERVICIOS_PROCESOS\UD 2 Programación Multiproceso\Actividades\C#\ClaseCuenta\ClaseCuenta\obj\Debug\ClaseCuenta.dll
+D:\DAM2\DOCUMENTOS\PGM_SERVICIOS_PROCESOS\UD 2 Programación Multiproceso\Actividades\C#\ClaseCuenta\ClaseCuenta\obj\Debug\ClaseCuenta.pdb
+D:\DAM2\DOCUMENTOS\PGM_SERVICIOS_PROCESOS\UD 2 Programación multiproceso\Actividades\C#\ClaseCuenta\ClaseCuenta\obj\Debug\ClaseCuenta.csproj.CoreCompileInputs.cache
