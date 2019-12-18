@@ -32,6 +32,11 @@ namespace Supermercado
 
         }
 
+        private void TxtClientes_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
         private void Form1_FormClosed(object sender, FormClosedEventArgs e)
         {
             s.Close();

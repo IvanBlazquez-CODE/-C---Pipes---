@@ -18,7 +18,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             StreamWriter sw;
-            SqlConnection cn = new SqlConnection(@"Data Source = SEGUNDO150\SEGUNDO150; Initial Catalog = DaniDB; Integrated Security = True");
+            SqlConnection cn = new SqlConnection(@"Data Source = SEGUNDO150; Initial Catalog = DaniDB; Integrated Security = True");
             SqlCommand cmd = new SqlCommand("SELECT max(Id) FROM Semaforo.Productos");
             cn.Open();
             cmd.Connection = cn;
