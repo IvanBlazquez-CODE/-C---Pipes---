@@ -42,7 +42,6 @@ namespace Usuario
             Funciones.PostMessage(hwnd, MSG_COGE_TOALLA, IntPtr.Zero, IntPtr.Zero);
 
             mutexUsuario.WaitOne();
-
             /*ENTRA EN LA DUCHA*/
             Funciones.PostMessage(hwnd, MSG_DUCHA_IN, IntPtr.Zero, IntPtr.Zero);
 
