@@ -1,0 +1,6 @@
+D:\DAM2\DOCUMENTOS\PGM_SERVICIOS_PROCESOS\UD 2 Programación Multiproceso\Actividades\C#\ThrowException\ThrowException\bin\Debug\ThrowException.exe.config
+D:\DAM2\DOCUMENTOS\PGM_SERVICIOS_PROCESOS\UD 2 Programación Multiproceso\Actividades\C#\ThrowException\ThrowException\bin\Debug\ThrowException.exe
+D:\DAM2\DOCUMENTOS\PGM_SERVICIOS_PROCESOS\UD 2 Programación Multiproceso\Actividades\C#\ThrowException\ThrowException\bin\Debug\ThrowException.pdb
+D:\DAM2\DOCUMENTOS\PGM_SERVICIOS_PROCESOS\UD 2 Programación Multiproceso\Actividades\C#\ThrowException\ThrowException\obj\Debug\ThrowException.csprojResolveAssemblyReference.cache
+D:\DAM2\DOCUMENTOS\PGM_SERVICIOS_PROCESOS\UD 2 Programación Multiproceso\Actividades\C#\ThrowException\ThrowException\obj\Debug\ThrowException.exe
+D:\DAM2\DOCUMENTOS\PGM_SERVICIOS_PROCESOS\UD 2 Programación Multiproceso\Actividades\C#\ThrowException\ThrowException\obj\Debug\ThrowException.pdb
