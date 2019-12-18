@@ -1,0 +1,7 @@
+D:\DAM-2\DOCUMENTOS\PROG_SERVICIOS_PROCESOS\UD 2 Programación Multiproceso\Actividades\NamedPipesExc\NamedPipesExc\bin\Debug\NamedPipesExc.exe.config
+D:\DAM-2\DOCUMENTOS\PROG_SERVICIOS_PROCESOS\UD 2 Programación Multiproceso\Actividades\NamedPipesExc\NamedPipesExc\bin\Debug\NamedPipesExc.exe
+D:\DAM-2\DOCUMENTOS\PROG_SERVICIOS_PROCESOS\UD 2 Programación Multiproceso\Actividades\NamedPipesExc\NamedPipesExc\bin\Debug\NamedPipesExc.pdb
+D:\DAM-2\DOCUMENTOS\PROG_SERVICIOS_PROCESOS\UD 2 Programación Multiproceso\Actividades\NamedPipesExc\NamedPipesExc\obj\Debug\NamedPipesExc.csprojAssemblyReference.cache
+D:\DAM-2\DOCUMENTOS\PROG_SERVICIOS_PROCESOS\UD 2 Programación Multiproceso\Actividades\NamedPipesExc\NamedPipesExc\obj\Debug\NamedPipesExc.csproj.CoreCompileInputs.cache
+D:\DAM-2\DOCUMENTOS\PROG_SERVICIOS_PROCESOS\UD 2 Programación Multiproceso\Actividades\NamedPipesExc\NamedPipesExc\obj\Debug\NamedPipesExc.exe
+D:\DAM-2\DOCUMENTOS\PROG_SERVICIOS_PROCESOS\UD 2 Programación Multiproceso\Actividades\NamedPipesExc\NamedPipesExc\obj\Debug\NamedPipesExc.pdb

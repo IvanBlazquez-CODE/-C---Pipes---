@@ -1,0 +1,6 @@
+E:\DAM-2\DOCUMENTOS\PROGRAMACIÓN_SERVICIOS_PROCESOS\UD 2 Programación multiproceso\Actividades\PipesAnonimos\PipesAnonimos\bin\Debug\PipesAnonimos.exe.config
+E:\DAM-2\DOCUMENTOS\PROGRAMACIÓN_SERVICIOS_PROCESOS\UD 2 Programación multiproceso\Actividades\PipesAnonimos\PipesAnonimos\bin\Debug\PipesAnonimos.exe
+E:\DAM-2\DOCUMENTOS\PROGRAMACIÓN_SERVICIOS_PROCESOS\UD 2 Programación multiproceso\Actividades\PipesAnonimos\PipesAnonimos\bin\Debug\PipesAnonimos.pdb
+E:\DAM-2\DOCUMENTOS\PROGRAMACIÓN_SERVICIOS_PROCESOS\UD 2 Programación multiproceso\Actividades\PipesAnonimos\PipesAnonimos\obj\Debug\PipesAnonimos.csproj.CoreCompileInputs.cache
+E:\DAM-2\DOCUMENTOS\PROGRAMACIÓN_SERVICIOS_PROCESOS\UD 2 Programación multiproceso\Actividades\PipesAnonimos\PipesAnonimos\obj\Debug\PipesAnonimos.exe
+E:\DAM-2\DOCUMENTOS\PROGRAMACIÓN_SERVICIOS_PROCESOS\UD 2 Programación multiproceso\Actividades\PipesAnonimos\PipesAnonimos\obj\Debug\PipesAnonimos.pdb
