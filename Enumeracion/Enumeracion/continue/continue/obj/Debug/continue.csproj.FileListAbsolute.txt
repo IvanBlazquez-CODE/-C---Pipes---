@@ -1,0 +1,6 @@
+E:\DAM-2\DOCUMENTOS\PROGRAMACION_SERVICIOS_PROCESOS\UD 2 Programación Multiproceso\Actividades\Enumeracion\continue\continue\bin\Debug\@continue.exe.config
+E:\DAM-2\DOCUMENTOS\PROGRAMACION_SERVICIOS_PROCESOS\UD 2 Programación Multiproceso\Actividades\Enumeracion\continue\continue\bin\Debug\@continue.exe
+E:\DAM-2\DOCUMENTOS\PROGRAMACION_SERVICIOS_PROCESOS\UD 2 Programación Multiproceso\Actividades\Enumeracion\continue\continue\bin\Debug\@continue.pdb
+E:\DAM-2\DOCUMENTOS\PROGRAMACION_SERVICIOS_PROCESOS\UD 2 Programación Multiproceso\Actividades\Enumeracion\continue\continue\obj\Debug\continue.csprojResolveAssemblyReference.cache
+E:\DAM-2\DOCUMENTOS\PROGRAMACION_SERVICIOS_PROCESOS\UD 2 Programación Multiproceso\Actividades\Enumeracion\continue\continue\obj\Debug\@continue.exe
+E:\DAM-2\DOCUMENTOS\PROGRAMACION_SERVICIOS_PROCESOS\UD 2 Programación Multiproceso\Actividades\Enumeracion\continue\continue\obj\Debug\@continue.pdb
